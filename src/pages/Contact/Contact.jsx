@@ -71,9 +71,9 @@ export default function Contact() {
               <a className="contact-link" href={`mailto:${profile.email}`}>
                 <FaIcon icon={faEnvelope} size={18} /> {profile.email}
               </a>
-              <a className="contact-link" href="tel:+201150895891">
+              {/* <a className="contact-link" href="tel:+201150895891">
                 <FaIcon icon={faPhone} size={18} /> {profile.phone}
-              </a>
+              </a> */}
             </div>
             <div className="social-row">
               {socialLinks.map(({ label, href, icon: Icon }) => (

@@ -20,19 +20,19 @@ export const profile = {
   intro:
     'Crafting high-performance websites with modern tech stacks, clean architecture, accessibility, and exceptional user experiences.',
   email: 'enasashoushc41@gmail.com',
-  phone: '01150895891',
+  // phone: '01150895891',
   github: 'https://github.com/enasashoush16',
   linkedin: 'https://www.linkedin.com/in/enas-ashoush-082835218',
   instagram: 'https://www.instagram.com/enas_ashoush?igsh=MXNvaG9xZTJqNng1Zg==',
   facebook: 'https://www.facebook.com/share/1E5CCHS4nn/',
-  whatsapp: 'https://wa.me/qr/QEXFHDVGANW6I1',
+  // whatsapp: 'https://wa.me/qr/QEXFHDVGANW6I1',
   availability: 'Available for frontend and software roles',
 };
 
 export const socialLinks = [
   { label: 'Facebook', href: profile.facebook, icon: createFaIcon(faFacebookF) },
   { label: 'Instagram', href: profile.instagram, icon: createFaIcon(faInstagram) },
-  { label: 'WhatsApp', href: profile.whatsapp, icon: createFaIcon(faWhatsapp) },
+  // { label: 'WhatsApp', href: profile.whatsapp, icon: createFaIcon(faWhatsapp) },
   { label: 'LinkedIn', href: profile.linkedin, icon: createFaIcon(faLinkedinIn) },
   { label: 'GitHub', href: profile.github, icon: createFaIcon(faGithub) },
   { label: 'Email', href: `mailto:${profile.email}`, icon: Mail },
@@ -55,10 +55,10 @@ export const experience = [
     period: 'Mar 2026 – Present',
     icon: BriefcaseBusiness,
     points: [
-      'Engineered a business-critical CRM-to-Books integration pipeline, eliminating processing backlogs and modernizing data synchronization workflows.',
-      'Automated Sales Order and Purchase Order synchronization across Zoho CRM and Zoho Books, reducing manual data entry errors by 40%.',
-      'Redesigned CRM modules using Zoho Canvas and Blueprints, improving lead-to-deal conversion speed by 15% through optimized user workflows.',
-      'Developed advanced Deluge functions and Client Scripts to enforce data integrity, saving internal teams more than 10 hours of manual validation each week.',
+      'Built CRM-to-Books integrations and automated business workflows.',
+      'Reduced manual data entry errors by 40% through automation',
+      'Improved CRM efficiency using Zoho Canvas, Blueprints, and Deluge.',
+      'Saved 10+ hours per week by automating data validation.',
     ],
   },
   {
@@ -68,38 +68,38 @@ export const experience = [
     period: 'Sep 2024 – Mar 2026',
     icon: BriefcaseBusiness,
     points: [
-      'Managed over 85 high-priority customer interactions daily while maintaining accurate real-time banking records.',
-      'Collaborated with multiple bank departments to resolve complex financial cases efficiently.',
-      'Consistently met service quality and response KPIs in a fast-paced financial environment.',
-      'Won 3rd Place across the operation as a top KPI achiever and "Employee of the Month" ',
+      'Managed 85+ daily customer interactions with high accuracy.',
+      ' Resolved complex financial cases through cross-team collaboration.',
+      'Exceeded KPIs and earned "Employee of the Month".',
+      'Ranked 3rd operation-wide for performance.',
     ],
   },
-  {
-    type: 'Professional Experience',
-    title: 'Sales & Social Media Moderator',
-    place: 'Mategoo Travel Agency',
-    period: 'Jul 2024 – Sep 2024',
-    icon: BriefcaseBusiness,
-    points: [
-      'Surpassed monthly sales targets by achieving 115% of agency revenue goals.',
-      'Built strong client relationships through persuasive communication and consultative sales techniques.',
-      'Resolved customer inquiries across digital channels, improving response times by 30%.',
-      'Supported the company\'s online presence by managing customer engagement and social media interactions.',
-    ],
-  },
-  {
-    type: 'Professional Experience',
-    title: 'Tour Guide',
-    place: 'Viaggio Travel Agency',
-    period: 'Aug 2022 – Sep 2023',
-    icon: BriefcaseBusiness,
-    points: [
-      'Coordinated corporate travel plans, hotel reservations, and internal trips for multiple clients simultaneously.',
-      'Delivered high-quality customer service while managing complex travel logistics.',
-      'Improved customer satisfaction metrics by 20% through effective planning and personalized support.',
-      'Developed strong communication, organization, and problem-solving skills in a client-facing environment.',
-    ],
-  },
+  // {
+  //   type: 'Professional Experience',
+  //   title: 'Sales & Social Media Moderator',
+  //   place: 'Mategoo Travel Agency',
+  //   period: 'Jul 2024 – Sep 2024',
+  //   icon: BriefcaseBusiness,
+  //   points: [
+  //     'Surpassed monthly sales targets by achieving 115% of agency revenue goals.',
+  //     'Built strong client relationships through persuasive communication and consultative sales techniques.',
+  //     'Resolved customer inquiries across digital channels, improving response times by 30%.',
+  //     'Supported the company\'s online presence by managing customer engagement and social media interactions.',
+  //   ],
+  // },
+  // {
+  //   type: 'Professional Experience',
+  //   title: 'Tour Guide',
+  //   place: 'Viaggio Travel Agency',
+  //   period: 'Aug 2022 – Sep 2023',
+  //   icon: BriefcaseBusiness,
+  //   points: [
+  //     'Coordinated corporate travel plans, hotel reservations, and internal trips for multiple clients simultaneously.',
+  //     'Delivered high-quality customer service while managing complex travel logistics.',
+  //     'Improved customer satisfaction metrics by 20% through effective planning and personalized support.',
+  //     'Developed strong communication, organization, and problem-solving skills in a client-facing environment.',
+  //   ],
+  // },
 ];
 
 // New educationTimeline export - modern card layout entries

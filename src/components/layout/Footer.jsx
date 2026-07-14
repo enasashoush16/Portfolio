@@ -56,10 +56,10 @@ export default function Footer() {
             <a className="contact-link " href={`mailto:${profile.email}`}>
               {profile.email}
             </a>
-            <p >Call Me</p>
+            {/* <p >Call Me</p>
             <a className="contact-link" href="tel:+201150895891">
               {profile.phone}
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="footer-bottom">
