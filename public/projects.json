@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "Yummy Recipes Finder",
+    "image": "/Images/Yummy.png",
+    "description": "Food search platform built on Bootstrap 5 and REST APIs for discovering meals and recipe details.",
+    "track": "Frontend",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap 5",
+      "REST APIs"
+    ],
+    "github": "https://github.com/enasashoush16/Yummy.git",
+    "liveDemo": "https://enasashoush16.github.io/Yummy/",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Bundle Builder",
+    "image": "/Images/bundle builder.png",
+    "description": "Product bundle customization experience with real-time price calculations using a React and Node architecture.",
+    "track": "Full Stack",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "JavaScript",
+      "Real-time Calculations"
+    ],
+    "github": "https://github.com/enasashoush16/Bundle-Builder.git",
+    "liveDemo": "https://bundle-builder-lake.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "FreshCart",
+    "image": "/Images/FreshCart.png",
+    "description": "Full-featured e-commerce ecosystem with Stripe API checkout and transaction workflows.",
+    "track": "Full Stack",
+    "technologies": [
+      "React.js",
+      "JavaScript",
+      "REST APIs",
+      "Context API / Redux",
+      "Stripe API",
+      "Bootstrap 5"
+    ],
+    "github": "https://github.com/enasashoush16/FreshCart_Ecommerce-.git",
+    "liveDemo": "https://fresh-cart-ecommerce-xmla.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "HelpDesk Lite",
+    "image": "/Images/HelpDesk Lite.png",
+    "description": "Support tickets dashboard system using a Node and Express backend for ticket workflow management.",
+    "track": "Backend",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "Dashboard UI"
+    ],
+    "github": "https://github.com/enasashoush16/HelpDesk_Lite.git",
+    "liveDemo": "https://helpdesk-lite-4ah1.onrender.com/login",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "title": "Health Guard",
+    "image": "/Images/HealthGuard.png",
+    "description": "Healthcare and medical logistics platform for senior and disabled citizens, built with React and .NET while leading a team of 5 developers through the SDLC.",
+    "track": "Full Stack",
+    "technologies": [
+      "React.js",
+      ".NET Core Web API",
+      "C#",
+      "SQL Server",
+      "State Management",
+      "RESTful APIs"
+    ],
+    "github": "https://github.com/enasashoush16/HealthGuard-.git",
+    "liveDemo": "",
+    "featured": true
+  },
+  {
+    "id": 9,
+    "title": "Health Guard Dashboard",
+    "image": "/Images/HealthGuard Dashboard.png",
+    "description": "Secure internal administration dashboard with RBAC, inventory and nursing staff CRUD modules, user auditing, order monitoring, and financial charting.",
+    "track": "Dashboard",
+    "technologies": [
+      "React.js",
+      ".NET Core Web API",
+      "RBAC",
+      "JWT",
+      "SQL Server",
+      "Financial Data Charting"
+    ],
+    "github": "https://github.com/enasashoush16/Admin_Dashboard_HealthGuard.git",
+    "liveDemo": "",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Jessica Portfolio",
+    "image": "/Images/jessica.png",
+    "description": "Designer portfolio template featuring a real-time theme switcher and refined visual interactions.",
+    "track": "Frontend",
+    "technologies": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Theme Switcher"
+    ],
+    "github": "https://github.com/enasashoush16/Jessica_Interface.git",
+    "liveDemo": "https://enasashoush16.github.io/Jessica_Interface/",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Daniels Portfolio",
+    "image": "/Images/Danials.png",
+    "description": "High-fidelity landing interface built with custom CSS animations and responsive portfolio composition.",
+    "track": "Frontend",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap 5",
+      "CSS Animations",
+      "Responsive Design"
+    ],
+    "github": "https://github.com/enasashoush16/Daniels_Project.git",
+    "liveDemo": "https://enasashoush16.github.io/Daniels_Project/",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Mealfy",
+    "image": "/Images/Mealfy.png",
+    "description": "Restaurant reservations landing interface focused on polished presentation, responsive sections, and clear calls to action.",
+    "track": "Frontend",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "Responsive Design"
+    ],
+    "github": "https://github.com/enasashoush16/Mealfy_Web_Interface.git",
+    "liveDemo": "https://enasashoush16.github.io/Mealfy_Web_Interface/",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Production RESTful API Suite",
+    "image": "",
+    "description": "Collection of scalable Engineered a robust backend APIs (E-Commerce API, Job Search API, Task Management API) designed to handle complex business logic, secure data distribution, and high-concurrency requests. Each system relies on optimized NoSQL database structures and strict security protocols to manage production-ready application workflows.",
+    "track": "Backend",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose ODM",
+      "JWT Authentication",
+      "Bcrypt"
+    ],
+    "github": "https://github.com/enasashoush16?tab=repositories&q=api&type=&language=&sort=",
+    "liveDemo": "",
+    "featured": true
+  }
+]
