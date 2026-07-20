@@ -57,7 +57,7 @@ export default function Navbar() {
           ))}
           <a
             className="btn btn-secondary"
-            href="dist/Files/Enas_Ashoush.pdf"
+            href="/Files/Enas_Ashoush.pdf"
             download
             target="_blank"
             rel="noreferrer"

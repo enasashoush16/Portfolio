@@ -102,7 +102,6 @@ export const experience = [
   // },
 ];
 
-
 // New educationTimeline export - modern card layout entries
 export const educationTimeline = [
   {
