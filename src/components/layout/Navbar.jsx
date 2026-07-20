@@ -61,8 +61,7 @@ export default function Navbar() {
             download
             target="_blank"
             rel="noreferrer"
-            onClick={() => setOpen(false)}
-          >
+            onClick={() => setOpen(false)}>
             <FaIcon icon={faFileLines} size={18} />
             Resume
           </a>
